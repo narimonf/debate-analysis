@@ -1,4 +1,4 @@
-from statsClasses import *
+from statsclasses import *
 
 import ashlib.ling.tokenize
 import ashlib.ling.corpus
