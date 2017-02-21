@@ -1,7 +1,7 @@
 from debate_type_one import *
 from debate_type_two import *
 from calc_data import *
-
+ 
 import math
 import os
 import sys
