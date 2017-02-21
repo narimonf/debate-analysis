@@ -1,5 +1,5 @@
 from ngram import *
-from output_data import *
+from outputdata import *
 
 from pattern.en import parse, Sentence, parse, modality, mood, sentiment, lemma
 import ashlib.ling.tokenize
