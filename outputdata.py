@@ -64,3 +64,4 @@ def print_sentiment_analysis(stats, polarity_file, subjectivity_file, mood_file,
 	write_collection_to_csv(stats.subjectivity_counts, subjectivity_file)
 	write_collection_to_csv(stats.mood_counts, mood_file)
 	write_collection_to_csv(stats.modality_counts, modality_file)
+ 
