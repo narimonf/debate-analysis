@@ -1,4 +1,4 @@
-from debateClass import *
+from debateclass import *
 
 class DebateTypeTwo(Debate):
 
